@@ -20,4 +20,4 @@ docker-compose up
 
 ## Project Structure
 
-<!-- [![Directory docs](img/direct.png)](https://github.com/Sagor0078/Readify-Backend) -->
+<!-- [![Directory docs](img/director.png)](https://github.com/Sagor0078/Real-Time-Messaging-and-File-Shareing-API) -->
