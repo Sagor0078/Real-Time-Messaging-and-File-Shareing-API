@@ -19,32 +19,5 @@ docker-compose up
 ```
 
 ## Project Structure
-.
-├── messaging_api
-│   ├── chat
-│   │   ├── migrations
-│   │   ├── __init__.py
-│   │   ├── models.py
-│   │   ├── views.py
-│   │   ├── ...
-│   ├── core
-│   │   ├── __init__.py
-│   │   ├── settings.py
-│   │   ├── urls.py
-│   │   ├── wsgi.py
-│   │   ├── ...
-│   ├── groups
-│   │   ├── migrations
-│   │   ├── __init__.py
-│   │   ├── models.py
-│   │   ├── views.py
-│   │   ├── ...
-│   ├── users
-│   │   ├── migrations
-│   │   ├── __init__.py
-│   │   ├── models.py
-│   │   ├── views.py
-│   │   ├── ...
-│   ├── manage.py
-├── Dockerfile
-└── [README.md]
+
+<!-- [![Directory docs](img/direct.png)](https://github.com/Sagor0078/Readify-Backend) -->
