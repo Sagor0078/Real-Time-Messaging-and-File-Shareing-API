@@ -20,4 +20,4 @@ docker-compose up
 
 ## Project Structure
 
-<!-- [![Directory docs](img/director.png)](https://github.com/Sagor0078/Real-Time-Messaging-and-File-Shareing-API) -->
+[![Directory docs](img/director.png)](https://github.com/Sagor0078/Real-Time-Messaging-and-File-Shareing-API)
