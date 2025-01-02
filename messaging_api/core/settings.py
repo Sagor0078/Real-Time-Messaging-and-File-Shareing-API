@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'rest_framework',
+    'drf_yasg',
     'channels',
     'users',
     'chat',
@@ -56,6 +57,10 @@ CHANNEL_LAYERS = {
         "BACKEND": "channels_redis.core.RedisChannelLayer",
         "CONFIG": {"hosts": [("127.0.0.1", 6379)]},
     },
+}
+
+SWAGGER_SETTINGS = {
+    'DEFAULT_GENERATOR_CLASS': 'drf_yasg.generators.OpenAPISchemaGenerator',  # Ensure this is correct or remove it
 }
 
 CELERY_BROKER_URL = "redis://127.0.0.1:6379/0"
